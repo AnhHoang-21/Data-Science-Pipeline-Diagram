@@ -1,2 +1,2 @@
-# Data Science Pipeline - Diagram
+# Data Science Pipeline
 Diagram for data science pipeline
